@@ -1,4 +1,4 @@
 # Github-demo
 This is my first repository.
 <br>
-Author : Rachana
+Author : Nedunnuri Rachana
